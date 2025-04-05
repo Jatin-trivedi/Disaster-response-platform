@@ -124,7 +124,7 @@ const LiveDisasterMap = () => {
         display: 'flex',
         flexDirection: 'column',
         backgroundColor: '#fff',
-        alignItems: 'center',
+        alignItems: 'left',
         justifyContent: 'flex-start',
         px: 2,
         pt: { xs: 10, md: 8 },
